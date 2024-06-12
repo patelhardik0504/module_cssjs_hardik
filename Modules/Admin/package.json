@@ -16,7 +16,12 @@
   },
   "dependencies": {
     "@originjs/vite-plugin-commonjs": "^1.0.3",
+    "@popperjs/core": "^2.11.8",
+    "@vitejs/plugin-vue": "^3.2.0",
     "fs-extra": "^11.2.0",
-    "rollup-plugin-copy": "^3.5.0"
+    "path": "^0.12.7",
+    "rollup-plugin-copy": "^3.5.0",
+    "vue": "^3.4.27",
+    "vue-loader": "^17.4.2"
   }
 }
