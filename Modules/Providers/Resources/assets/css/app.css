@@ -1,0 +1,105 @@
+@import url('./bootstrap.min.css');
+
+/* General Styling */
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #222;
+    color: #eee;
+    padding: 30px 0;
+    text-align: center;
+}
+
+.footer-links ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-links li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.footer-links a {
+    color: #eee;
+    text-decoration: none;
+}
+
+.social-links a {
+    display: inline-block; 
+    width: 35px;
+    height: 35px;
+    background-color: #333;
+    color: #eee;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.newsletter {
+    margin-top: 20px;
+}
+
+.newsletter input {
+    padding: 10px;
+    border: none;
+    outline: none;
+    width: 250px;
+}
+
+.newsletter button {
+    background-color: #008CBA; /* Example color */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+.copyright {
+    font-size: 0.9em;
+}
+
+
+
+
+.header {
+    background-color: #345; /* Change this to your desired background color */
+    color: #fff; /* Change this to your desired text color */
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    font-size: 24px; /* Adjust font size as needed */
+  }
+  
+  .nav-links a {
+    color: #fff; /* Change this to your desired link color */
+    text-decoration: none;
+    margin-left: 20px; /* Adjust spacing between links */
+  }
+  
+  .nav-links a:hover {
+    text-decoration: underline;
+  }
+  
+  .nav-links .active {
+    font-weight: bold; /* Style for the active link */
+  }
+  
+  .help-block
+  {
+    color: red;
+  }

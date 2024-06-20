@@ -9,14 +9,13 @@
         <!-- Fonts -->
         <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
-        <!-- Styles -->
-        @vite(['resources/css/app.css', 'resources/js/app.js'])
-
+        
        
     </head>
     <body class="antialiased">
         <div id="">
-        <component-a />
-        </div>
+
+        <h1>asdsa</h1>
+    </div>
     </body>
 </html>
